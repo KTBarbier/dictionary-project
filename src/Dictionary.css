@@ -1,7 +1,8 @@
-.Dictionary {
-    background: #E8E1FE;
+:root {
+    --background: #E8E1FE;
+    --accent: color: #6138F5;
 }
 
-.accent-color {
-    color: #6138F5;
+.Dictionary {
+    background: var(--background)
 }
