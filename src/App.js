@@ -10,7 +10,16 @@ function App() {
           <Dictionary />
         </main>
         <footer className="text-center">
-          <small>Coded by Kristen Barbier</small>
+          <small>
+            <a
+              href="https://github.com/KTBarbier/dictionary-project"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Open-sourced
+            </a>{" "}
+            code by Kristen Barbier
+          </small>
         </footer>
       </div>
     </div>
