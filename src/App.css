@@ -10,3 +10,11 @@
     font-size: 64px;
     color: #6138F5;
 }
+
+body {
+    background: var(--background);
+}
+
+a {
+    color: var(--accent);
+}
