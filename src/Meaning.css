@@ -1,0 +1,8 @@
+.Meaning .definition {
+    font-style: bold;
+}
+
+.Meaning .example {
+    font-style: italic;
+    opacity: 0.8;
+}
