@@ -5,7 +5,7 @@ import Photos from "./Photos";
 import "./Dictionary.css";
 
 export default function Dictionary() {
-  let [keyword, setKeyword] = useState("programmer");
+  let [keyword, setKeyword] = useState("discover");
   let [results, setResults] = useState(null);
   let [loaded, setLoaded] = useState(false);
   let [photos, setPhotos] = useState(null);
