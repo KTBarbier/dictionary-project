@@ -56,7 +56,7 @@ export default function Dictionary() {
               type="search"
               onChange={handleKeywordChange}
               autoFocus={true}
-              defaultValue="programmer"
+              defaultValue="discover"
             />
           </form>
         </section>

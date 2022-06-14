@@ -18,7 +18,14 @@ function App() {
             >
               Open-sourced
             </a>{" "}
-            code by Kristen Barbier
+            code by{" "}
+            <a
+              href="https://www.linkedin.com/in/kristenbarbier/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Kristen Barbier
+            </a>
           </small>
         </footer>
       </div>
