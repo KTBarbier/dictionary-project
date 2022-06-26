@@ -20,7 +20,7 @@ function App() {
             </a>{" "}
             code by{" "}
             <a
-              href="https://www.linkedin.com/in/kristenbarbier/"
+              href="https://www.kristenbarbier.com"
               target="_blank"
               rel="noreferrer"
             >
